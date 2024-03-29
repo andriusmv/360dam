@@ -22,3 +22,5 @@ Here is the list of images stored in an Amazon S3 bucket:
 - https://itu360bucket.s3.us-east-2.amazonaws.com/GS__0442.jpg
 
 Hit me up if you need help with anything!
+
+![excalidraw_draft](https://github.com/andriusmv/360dam/assets/99091918/45492193-11ac-4d2d-8fb2-11380d83c69c)
